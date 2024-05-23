@@ -12,9 +12,9 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh Lab</a>|
-| Threat Monitoring and Attack Detection        | <a href="https://google.com">Wazuh Lab</a>|
-| Basic Python Commands                         | <a href="https://google.com">Simple Username Generator</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh Lab(WIP)</a>|
+| Threat Monitoring and Attack Detection        | <a href="https://google.com">Wazuh Lab(WIP)</a>|
+| Basic Python Commands                         | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>|
 
 ## Tools
 
