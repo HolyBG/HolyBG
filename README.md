@@ -1,7 +1,7 @@
 # Hello, I'm Anthony
 <a href="https://www.linkedin.com/in/huffjohnson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an Air Force veteran with a boundless passion for IT and cybersecurity. Given the continuous hands-on learning required in this field, this space serves as a documentation of my projects.
+I am an Air Force veteran with a boundless passion for IT and cybersecurity. Given the continuous hands-on learning required in this field, this space serves as a way to document my projects and to see how far I have come.
 
 ## Objective
 
@@ -47,4 +47,5 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
 </div>
 
 ## Projects
-- Wazuh Lab
+- <a href="https://google.com">Wazuh Lab(WIP)</a>
+- <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>
