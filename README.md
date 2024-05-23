@@ -8,7 +8,6 @@ I am an Air Force veteran with a boundless passion for IT and cybersecurity. Giv
 As an IT proffesional I have always had an interest in cybersecurity. I would like to hone my skills and become a Tier 1 Analyst in a Security Operations Center or an Information System Security Engineer
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
