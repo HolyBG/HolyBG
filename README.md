@@ -14,7 +14,8 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh Lab(WIP)</a>|
 | Threat Monitoring and Attack Detection        | <a href="https://google.com">Wazuh Lab(WIP)</a>|
-| Basic Python Commands                         | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>|
+| Python Fundamentals                           | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>|
+| Python Fundamentals                           | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Tip Calculator</a>|
 
 ## Tools
 
