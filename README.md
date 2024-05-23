@@ -49,3 +49,4 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
 ## Projects
 - <a href="https://google.com">Wazuh Lab(WIP)</a>
 - <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>
+- <a href="https://github.com/HolyBG/Tip-Calculator/blob/main/README.md">Tip Calculator</a>
