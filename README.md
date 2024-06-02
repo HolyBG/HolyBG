@@ -13,8 +13,9 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh Lab(WIP)</a>|
 | Threat Monitoring and Attack Detection        | <a href="https://google.com">Wazuh Lab(WIP)</a>|
-| Python Fundamentals                           | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>|
-| Python Fundamentals                           | <a href="https://github.com/HolyBG/Tip-Calculator/blob/main/README.md">Tip Calculator</a>|
+| Python Programming                            | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main">Simple Username Generator</a>|
+| Python Programming                            | <a href="https://github.com/HolyBG/Tip-Calculator/blob/main">Tip Calculator</a>|
+| Python Programming                            | <a href="https://github.com/HolyBG/Secure-PW-Generator">Secure Password Generator</a>|
 
 ## Tools
 
@@ -24,10 +25,10 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
+### Scripting Languages
 ---
 <div>
-
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ### SIEM
@@ -50,3 +51,4 @@ As an IT proffesional I have always had an interest in cybersecurity. I would li
 - <a href="https://google.com">Wazuh Lab(WIP)</a>
 - <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>
 - <a href="https://github.com/HolyBG/Tip-Calculator/blob/main/README.md">Tip Calculator</a>
+- <a href="https://github.com/HolyBG/Secure-PW-Generator">Secure Password Generator</a>
