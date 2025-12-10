@@ -47,6 +47,7 @@ As an IT proffesional I have always had an interest in Scripting and Software De
 </div>
 
 ## Projects
+- <a href="https://github.com/HolyBG/Spring_Inventory_App">Spring Inventory Application</a>
 - <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>
 - <a href="https://github.com/HolyBG/Tip-Calculator/blob/main/README.md">Tip Calculator</a>
 - <a href="https://github.com/HolyBG/Secure-PW-Generator">Secure Password Generator</a>
