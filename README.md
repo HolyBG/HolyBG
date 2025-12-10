@@ -11,6 +11,7 @@ As an IT proffesional I have always had an interest in Scripting and Software De
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Java and Spring Framework                     | <a href="https://github.com/HolyBG/Spring_Inventory_App">Spring Inventory Application</a>|
 | Python Programming                            | <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main">Simple Username Generator</a>|
 | Python Programming                            | <a href="https://github.com/HolyBG/Tip-Calculator/blob/main">Tip Calculator</a>|
 | Python Programming                            | <a href="https://github.com/HolyBG/Secure-PW-Generator">Secure Password Generator</a>|
