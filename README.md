@@ -42,6 +42,8 @@ As an IT proffesional I have always had an interest in Scripting and Software De
 <div>
 <img src="https://img.shields.io/badge/-CISSP-2E8B57?style=for-the-badge&logo=CISSP&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-2C8EBB?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL_4_Foundation-733F94?style=for-the-badge&logo=itil&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
