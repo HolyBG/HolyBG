@@ -48,9 +48,3 @@ As an IT proffesional I have always had an interest in Scripting and Software De
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
-
-## Projects
-- <a href="https://github.com/HolyBG/Spring_Inventory_App">Spring Inventory Application</a>
-- <a href="https://github.com/HolyBG/Simple-Username-Generator/blob/main/README.md">Simple Username Generator</a>
-- <a href="https://github.com/HolyBG/Tip-Calculator/blob/main/README.md">Tip Calculator</a>
-- <a href="https://github.com/HolyBG/Secure-PW-Generator">Secure Password Generator</a>
